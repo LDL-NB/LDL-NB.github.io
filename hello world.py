@@ -1,2 +1,2 @@
-msg = "Roll a dice!"
+msg = "hello world"
 print(msg)
